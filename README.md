@@ -7,7 +7,7 @@
 
 #### Javascript
 ```js
-const code = ['Javascript', 'Java', 'C#'];
+const code = ['Javascript', 'Java', 'C#', 'PHP'];
 for (let i = 0; i < code.length; i++) {
     console.log(code[i]);
 }
